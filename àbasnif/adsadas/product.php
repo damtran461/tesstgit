@@ -1,0 +1,6 @@
+<php
+
+printf('ấdasdasd');
+
+
+>
